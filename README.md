@@ -1,4 +1,4 @@
-
+# Stock Market Management
 
 # I am fresh graduate. I have done machine learning work with Python before, but not much web development work. After you gave me the assignment, I studied a little about django and completed this work.
 name: Md Abu Baten
